@@ -1,0 +1,165 @@
+@media all and (max-width: 1319px) {
+    .downText .secTitle {
+        font-size: 38px;
+        line-height: 46px;
+    }
+}
+
+@media all and (max-width: 1199px) {
+    .downText {
+        padding: 50px 0 60px;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .secTitle {
+        font-size: 44px;
+        line-height: 62px;
+    }
+    .ctaArea .secTitle {
+        margin: 0 auto 20px;
+    }
+    .bannerArea {
+        padding: 132px 0 30px;
+    }
+    .bannerText .secTitle {
+        font-size: 44px;
+        line-height: 60px;
+    }
+    .footerInfo ul li {
+        max-width: 310px;
+    }
+    .downloadWraper {
+        padding: 0 20px 0 40px;
+    }
+}
+@media all and (max-width: 991px) {
+    .featureItem {
+        margin: 0 auto 60px;
+    }
+    .downloadWraper {
+        padding: 40px 20px 0 60px;
+    }
+    .ctaArea {
+        padding: 100px 0 120px;
+    }
+    .bannerLook > img {
+        left: 100px;
+    }
+    .downloadWraper {
+        padding: 40px 20px 0 20px;
+    }
+    .downText {
+        padding: 30px 0px 20px 30px;
+    }
+}
+@media all and (min-width: 768px) {
+    .mobileMenu {
+        display: none !important;
+    }
+}
+@media all and (max-width: 767px) {
+    .bannerArea {
+        padding: 50px 0 30px;
+    }
+    .bannerText .brandLink {
+        font-weight: 300;
+    }
+    .bannerText .secTitle {
+        font-size: 44px;
+        line-height: 60px;
+    }
+    .bannerLook > img {
+        left: 70px;
+    }
+    .bannerLook p {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .ctaText {
+        max-width: 490px;
+    }
+    .footerArea {
+        padding: 20px 0 0px;
+    }
+    .fooerLink h4 {
+        margin: 26px 0 10px;
+    }
+    .ctaWraper ul::after {
+        left: 0;
+    }
+    .ctaText {
+        max-width: 94%;
+    }
+    .bannerLook {
+        text-align: left;
+    }
+    .mobile-bars {
+		display: block;
+	}
+    .minMenu {
+        display: none;
+    }
+    .appStore {
+        margin: 0 0 50px;
+    }
+    .downImg .down02 {
+        display: block;
+        width: 95%;
+        margin: auto;
+    }
+    .downImg .down01 {
+        display: none;
+    }
+    .downloadWraper {
+        padding: 40px 0 0;
+    }
+    .downText {
+        padding: 0 20px 0;
+    }
+    .bannerArea::after {
+        width: 700px;
+        height: 700px;
+    }
+    .featureWrap {
+        background: url(../images/section-shape.png)no-repeat scroll center center / cover;
+    }
+}
+
+@media all and (max-width: 575px) {
+    .downText .secTitle {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .ctaItem .ctaHr {
+        padding: 40px 0 20px;
+    }
+    .ctagl {
+        justify-content: center;
+    }
+    .ctaArea {
+        padding: 80px 0 90px;
+    }
+    .ctaArea .secTitle {
+        margin: 0 auto 0;
+    }
+    .featureWrap {
+        padding: 20px 14px 30px;
+    }
+    .bannerArea::after {
+        left:-95px;
+    }
+}
+@media all and (max-width: 450px) {
+    .bannerLook > img {
+        left: 55px;
+    }
+    .secTitle {
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .bannerText .secTitle {
+        font-size: 40px;
+        line-height: 52px;
+    }
+}
